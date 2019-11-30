@@ -1,0 +1,29 @@
+﻿  AES_Decrypt.cpp
+  AES_Encrypt.cpp
+  Change_PW.cpp
+  CountCheck.cpp
+c:\users\a_pp_\source\repos\arcademic server\arcademic server\countcheck.cpp(35): warning C4267: '인수': 'size_t'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Create_AES_IV.cpp
+  Create_AES_KEY.cpp
+  Decrypt_Block.cpp
+  Encrypt_Block.cpp
+  Found_ID.cpp
+  Found_PW.cpp
+c:\users\a_pp_\source\repos\arcademic server\arcademic server\decrypt_block.cpp(15): warning C4700: 초기화되지 않은 'ctx' 지역 변수를 사용했습니다.
+  LoginChecking.cpp
+  LoginTest.cpp
+c:\users\a_pp_\source\repos\arcademic server\arcademic server\found_pw.cpp(35): warning C4267: '인수': 'size_t'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a_pp_\source\repos\arcademic server\arcademic server\found_id.cpp(34): warning C4267: '인수': 'size_t'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a_pp_\source\repos\arcademic server\arcademic server\loginchecking.cpp(36): warning C4267: '인수': 'size_t'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a_pp_\source\repos\arcademic server\arcademic server\loginchecking.cpp(70): warning C4267: '인수': 'size_t'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Main.cpp
+  OverlapChecking.cpp
+  Register.cpp
+  SHA256.cpp
+c:\users\a_pp_\source\repos\arcademic server\arcademic server\overlapchecking.cpp(34): warning C4267: '인수': 'size_t'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a_pp_\source\repos\arcademic server\arcademic server\overlapchecking.cpp(56): warning C4267: '인수': 'size_t'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Update.cpp
+  recv_Struct.cpp
+c:\users\a_pp_\source\repos\arcademic server\arcademic server\recv_struct.cpp(6): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+c:\users\a_pp_\source\repos\arcademic server\arcademic server\recv_struct.cpp(22): warning C4172: 지역 변수 또는 임시: suBuffer의 주소를 반환하고 있습니다.
+  Arcademic Server.vcxproj -> C:\Users\a_pp_\source\repos\Arcademic Server\x64\Debug\Arcademic Server.exe

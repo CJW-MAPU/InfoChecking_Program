@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\a_pp_\source\repos\arcademic server\arcademic server\main.cpp(22): warning C4101: 'db_err' :참조되지 않은 지역 변수입니다.
+c:\users\a_pp_\source\repos\arcademic server\arcademic server\main.cpp(11): warning C4101: 'row' :참조되지 않은 지역 변수입니다.
+c:\users\a_pp_\source\repos\arcademic server\arcademic server\main.cpp(10): warning C4101: 'res' :참조되지 않은 지역 변수입니다.
+Main.obj : error LNK2019: _mysql_set_character_set@8 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+Main.obj : error LNK2019: _mysql_init@4 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Program Files\MySQL\MySQL Server 8.0\lib\libmysql.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\a_pp_\source\repos\Arcademic Server\Debug\Arcademic Server.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
