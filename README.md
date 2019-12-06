@@ -1,6 +1,7 @@
 # InfoChecking Program
 
-### 최재웅, 안제하
+### 최재웅, 김예인
+[김예인 Github](https://github.com/oxomn)
 
 ###### 2019년 7월
 ___
